@@ -1,0 +1,13 @@
+{
+  "name": "lux",
+  "version": "0.1.0",
+  "dependencies": [],
+  "features": {
+    "test": {
+      "description": "Test suite dependencies",
+      "dependencies": [
+        "catch2"
+      ]
+    }
+  }
+}
