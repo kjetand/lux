@@ -15,4 +15,5 @@ set(CMAKE_TOOLCHAIN_FILE ${VCPKG_ROOT}/vcpkg/scripts/buildsystems/vcpkg.cmake
 
 project(lux LANGUAGES CXX)
 
+add_subdirectory(src)
 add_subdirectory(examples)

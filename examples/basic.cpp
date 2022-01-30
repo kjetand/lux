@@ -1,1 +1,6 @@
-int main() {}
+import lux;
+
+int main()
+{
+    lux::hello_world();
+}
